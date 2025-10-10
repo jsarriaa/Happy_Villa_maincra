@@ -11,7 +11,7 @@
 - In the bottom-left of TLauncher, choose:
   - `Forge 1.21.1`
 - Click **Enter the game** to install and launch
-![TLAUNCHER](tlauncher.PNG)
+![TLAUNCHER](misc/tlauncher.PNG)
 
 ### ✅ Step 3: Join the Multiplayer Server
 1. From the main menu, click **Multiplayer**
@@ -21,7 +21,7 @@
    - **Server IP:** `84.76.154.82:25565`
 4. Click **Done**
 5. Select the server and click **Join Server**
-![SERVER](server.PNG)
+![SERVER](misc/server.PNG)
 
 ### ⚠️ Mods
 - Mods are **not added yet**. You can join without any mods for now.
