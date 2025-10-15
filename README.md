@@ -24,8 +24,28 @@
 ![SERVER](misc/server.PNG)
 
 ### ⚠️ Mods
-- Mods are **not added yet**. You can join without any mods for now.
+Mods are already added to the server, no need to install. But you need to load them into your local minecraft folder.
 
+You just need to download all files you find at [mods folder](https://github.com/jsarriaa/Happy_Villa_maincra/tree/main/mods), and open your local folder. Find it from TLauncher like this:
+![Tlauncher_mods_folder](misc/MODS.PNG)
+
+Do it going to this website: [https://download-directory.github.io/](https://download-directory.github.io/)
+
+and pasting:
+```https://github.com/jsarriaa/Happy_Villa_maincra/tree/main/mods```
+![Tlauncher_mods_folder](misc/downloadmods.png)
+
+Open the zip folder, and paste all files to the local folder, like this:
+
+![mods_local_folder](misc/mods_2.PNG)
+
+And initiate the server as normal
+
+>  *NOTE* **Mods are ofc up to change. If any issue pops up with mods when logging into the server, just come to this website, download all mods again, empty your local folder and paste all news. This should fix any server update.**
+>
+> **And ofc, any suggestion is welcome!**
+
+Find more info about which mods are added here: [MODS for Minecraft forge 1.21.1](https://github.com/jsarriaa/Happy_Villa_maincra/tree/main/mods#readme)
 ---
 
 ## 📱 Other Devices (Android/iOS)
