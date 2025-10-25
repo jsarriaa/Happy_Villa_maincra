@@ -7,9 +7,9 @@
 - Create a free TLauncher account or use your nickname
 - Launch the app
 
-### ✅ Step 2: Set Minecraft Version to Forge 1.21.1
+### ✅ Step 2: Set Minecraft Version to Forge 1.21.10
 - In the bottom-left of TLauncher, choose:
-  - `Forge 1.21.1`
+  - `Forge 1.21.10`
 - Click **Enter the game** to install and launch
 ![TLAUNCHER](misc/tlauncher.PNG)
 
@@ -24,7 +24,8 @@
 ![SERVER](misc/server.PNG)
 
 ### ⚠️ Mods
-Mods are already added to the server, no need to install. But you need to load them into your local minecraft folder.
+> NOW ARE NOT MODS ADDED, JUST VANILLA. SUGGESTIONS ARE WELCOME
+
 
 You just need to download all files you find at [mods folder](https://github.com/jsarriaa/Happy_Villa_maincra/tree/main/mods), and open your local folder. Find it from TLauncher like this:
 ![Tlauncher_mods_folder](misc/MODS.PNG)
